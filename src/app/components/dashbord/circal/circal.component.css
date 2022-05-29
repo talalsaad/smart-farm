@@ -1,0 +1,34 @@
+.outcircl{
+    margin-top:30%;
+    margin-left: 20%;
+aspect-ratio: 1/1;
+width: 50%;
+border-radius: 100%;
+border:20px solid gray;
+display: grid;
+place-items: center;
+
+}
+
+.midcircl{
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+    border:20px solid transparent;
+    border-top-color: green;
+    border-right-color: green;
+    display: grid;
+    place-items: center;
+    transform: rotate(315deg);
+ 
+}
+
+.infocircal{
+    position: relative;
+top: -75%;
+left: 45%;
+z-index: 1;
+font-size: 25px;
+
+}
+
