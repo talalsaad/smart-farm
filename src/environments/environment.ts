@@ -9,10 +9,10 @@ export const environment = {
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
  firebaseConfig : {
   apiKey: "AIzaSyDVbrV2jioqJQsT8N0rkLvbb393H6yZqPs",
-    authDomain: "smart-farm-5962d.firebaseapp.com",
-    databaseURL: "https://smart-farm-5962d-default-rtdb.firebaseio.com",
-    projectId: "smart-farm-5962d",
-    storageBucket: "smart-farm-5962d.appspot.com",
+    authDomain: "smart-farm-887bd.firebaseapp.com",
+    databaseURL: "https://smart-farm-887bd-default-rtdb.firebaseio.com",
+    projectId: "smart-farm-887bd",
+    storageBucket: "smart-farm-887bd.appspot.com",
     messagingSenderId: "489171093266",
     appId: "1:489171093266:web:01adfd8f28578db63055cb",
     measurementId: "G-RV3P49YG19"
